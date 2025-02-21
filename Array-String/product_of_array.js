@@ -33,6 +33,7 @@ var productExceptSelf = function(nums) {
 
 productExceptSelf([1,2,3,4]) // [24,12,8,6]
 productExceptSelf([-1,1,0,-3,3]) // [0,0,9,0,0]
+cout << "arr[i + j] is: " << arr[i + j] << "\n";
 
 
 // Solution 2 [Optimized]
